@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Class-Path: hibernate-jpa-2.1-api-1.0.0.Final.jar com.jet.rtdb-7.0.jar
+  antlr-runtime-3.4.jar validation-api-1.1.0.Final.jar activation-1.1.
+ jar spring-boot-starter-web-1.4.2.RELEASE.jar spring-webmvc-4.3.4.REL
+ EASE.jar spring-web-4.3.4.RELEASE.jar tomcat-embed-el-8.5.6.jar jacks
+ on-core-2.8.4.jar jackson-annotations-2.8.4.jar commons-pool-1.6.jar 
+ logback-core-1.1.7.jar hibernate-commons-annotations-5.0.1.Final.jar 
+ jackson-databind-2.8.4.jar ezmorph-1.0.6.jar spring-orm-4.3.4.RELEASE
+ .jar jboss-logging-3.3.0.Final.jar thymeleaf-spring4-2.1.5.RELEASE.ja
+ r spring-boot-autoconfigure-1.4.2.RELEASE.jar log4j-over-slf4j-1.7.21
+ .jar mysql-connector-java-5.1.40.jar spring-aop-4.3.4.RELEASE.jar log
+ 4j-1.2.14.jar spring-boot-starter-1.4.2.RELEASE.jar tomcat-embed-core
+ -8.5.6.jar unbescape-1.1.0.RELEASE.jar spring-data-commons-1.12.5.REL
+ EASE.jar jandex-2.0.0.Final.jar tomcat-jdbc-8.5.6.jar spring-beans-4.
+ 3.4.RELEASE.jar spring-security-config-4.1.3.RELEASE.jar spring-boot-
+ starter-thymeleaf-1.4.2.RELEASE.jar logback-classic-1.1.7.jar commons
+ -logging-1.1.1.jar slf4j-api-1.7.21.jar tomcat-juli-8.5.6.jar hiberna
+ te-core-5.0.11.Final.jar stringtemplate-3.2.1.jar json-lib-2.4.jar as
+ pectjweaver-1.8.9.jar spring-security-core-4.1.3.RELEASE.jar tomcat-e
+ mbed-websocket-8.5.6.jar spring-data-jpa-1.10.5.RELEASE.jar spring-ex
+ pression-4.3.4.RELEASE.jar spring-tx-4.3.4.RELEASE.jar mina-core-2.0.
+ 13.jar spring-boot-starter-logging-1.4.2.RELEASE.jar antlr-2.7.7.jar 
+ geronimo-jta_1.1_spec-1.1.1.jar javassist-3.20.0-GA.jar mail-1.4.7.ja
+ r classmate-1.3.3.jar groovy-2.4.7.jar xml-apis-1.4.01.jar commons-la
+ ng-2.5.jar spring-boot-starter-tomcat-1.4.2.RELEASE.jar spring-securi
+ ty-web-4.1.3.RELEASE.jar thymeleaf-2.1.5.RELEASE.jar commons-dbcp-1.4
+ .jar jxl-2.6.12.jar jul-to-slf4j-1.7.21.jar ognl-3.0.8.jar spring-jdb
+ c-4.3.4.RELEASE.jar fel-0.8.jar spring-core-4.3.4.RELEASE.jar spring-
+ context-4.3.4.RELEASE.jar jcl-over-slf4j-1.7.21.jar snakeyaml-1.17.ja
+ r thymeleaf-layout-dialect-1.4.0.jar gson-2.6.2.jar commons-beanutils
+ -1.9.3.jar dom4j-1.6.1.jar hibernate-entitymanager-5.0.11.Final.jar a
+ spectjrt-1.8.9.jar hibernate-validator-5.2.4.Final.jar commons-collec
+ tions-3.2.2.jar spring-boot-1.4.2.RELEASE.jar spring-boot-starter-sec
+ urity-1.4.2.RELEASE.jar
+Main-Class: com.zkf.Application
+
