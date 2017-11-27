@@ -1,11 +1,4 @@
-/**
- * JET-APP
- * com.jet.app
- * AppDataSourceConfig.java
- * 
- * 2016年5月27日-下午3:20:43
- * 2016济中节能-版权所有
- */
+
 package com.zkf.mysql;
 
 import java.util.HashMap;
